@@ -1,0 +1,96 @@
+# Software Engineering Day 1 Assignment
+
+---
+
+## Part 1: Introduction to Software Engineering
+
+### 1. What is Software Engineering?
+
+**Answer**: Software engineering is all about creating, designing, and managing software using structured techniques and methods. It’s important because it ensures software is reliable, easy to maintain, and scalable. In the tech world, this means we can build complex systems that work well, last a long time, and can be used by a lot of people.
+
+---
+
+### 2. Key Milestones in Software Engineering Evolution
+
+**Answer**:
+- **Milestone 1: High-Level Programming Languages (1950s)**: The creation of early languages like FORTRAN and COBOL was a huge step. They made coding more accessible, which helped software engineering grow as a field.
+- **Milestone 2: Structured Programming (1970s)**: This was when developers started using better organization in their code, making it easier to manage and find bugs.
+- **Milestone 3: Agile Methodology (2001)**: Agile changed the game by encouraging flexible, team-based approaches where software could be improved over time, which was a big deal for software quality.
+
+---
+
+### 3. Phases of the Software Development Life Cycle (SDLC)
+
+**Answer**: 
+1. **Planning**: We figure out what the project needs to accomplish.
+2. **Analysis**: We look into how to meet those goals and what requirements are needed.
+3. **Design**: We outline how the software will be structured, like the overall look and flow.
+4. **Implementation**: This is where we code and actually build the software.
+5. **Testing**: We test to catch bugs and make sure everything works as it should.
+6. **Deployment**: We release the software to the users.
+7. **Maintenance**: We keep things running smoothly by fixing bugs and adding improvements.
+
+---
+
+### 4. Waterfall vs. Agile Methodologies
+
+**Answer**:
+- **Waterfall**: Waterfall is like a step-by-step plan where each stage needs to be complete before moving on. It works best for projects with fixed requirements, like software for banking, where each step has to be carefully planned.
+- **Agile**: Agile is more flexible and allows teams to work in cycles, improving as they go. This is perfect for projects where requirements change, like app development, because feedback can be added in quickly.
+
+**Comparison**:
+- Waterfall is great for stable projects, while Agile is better for projects where changes happen often or where client feedback is key.
+
+---
+
+### 5. Roles in a Software Engineering Team
+
+**Answer**:
+- **Software Developer**: The developer writes the code, adds new features, and fixes issues to keep everything working smoothly.
+- **Quality Assurance (QA) Engineer**: The QA checks the software to find bugs and make sure it meets quality standards before it’s released.
+- **Project Manager**: They coordinate the team, set deadlines, and make sure everyone’s on track to finish the project on time.
+
+---
+
+### 6. Importance of IDEs and VCS
+
+**Answer**:
+- **IDEs (Integrated Development Environments)**: These tools bundle code editors, debuggers, and other features into one program, making it easier for developers to code efficiently. Examples are Visual Studio and IntelliJ IDEA.
+- **VCS (Version Control Systems)**: VCS keeps track of code changes, allowing teams to collaborate and restore older versions if needed. Examples include Git and SVN.
+
+---
+
+### 7. Challenges in Software Engineering and Solutions
+
+**Answer**:
+- **Challenge 1: Meeting Deadlines** - This can be tough, so teams often use Agile to break tasks into smaller pieces and focus on priority work.
+- **Challenge 2: Keeping Up with New Tech** - Tech changes fast, so developers need to keep learning through courses, workshops, and online resources.
+- **Challenge 3: Testing Across Different Devices** - To make sure software works on all devices, teams set up cross-device testing with tools like BrowserStack.
+
+---
+
+### 8. Types of Testing
+
+**Answer**:
+- **Unit Testing**: Testing individual pieces of code to make sure each one works.
+- **Integration Testing**: Making sure different parts of the code work together.
+- **System Testing**: Checking the whole system to see if it meets requirements.
+- **Acceptance Testing**: Testing to make sure the software meets user needs and is ready for release.
+
+---
+
+## Part 2: Introduction to AI and Prompt Engineering
+
+### 1. Definition of Prompt Engineering
+
+**Answer**: Prompt engineering is about crafting specific prompts (or instructions) for AI models to get accurate answers. It’s essential because the more specific we are, the better the AI’s response will be. Good prompts can make interactions with AI way more useful.
+
+---
+
+### 2. Improving a Vague Prompt
+
+**Example**:
+- **Vague Prompt**: "Tell me about AI."
+- **Improved Prompt**: "Explain the basics of AI, including its core concepts, examples, and real-world applications."
+
+**Explanation**: The improved prompt is better because it’s specific about what to include. By focusing on “core concepts, examples, and applications,” the AI knows exactly what’s needed, making the response clearer and more complete.
